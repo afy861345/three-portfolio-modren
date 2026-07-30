@@ -7,7 +7,6 @@ import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import StarsCanvas from "./StarsCanvas";
-import ComputersCanvas from "./canvas/Computers";
 import CanvasLoader from "./Loader";
 export {
   Hero,
@@ -19,6 +18,6 @@ export {
   Feedbacks,
   Contact,
   StarsCanvas,
-  ComputersCanvas,
+  
   CanvasLoader
 };
